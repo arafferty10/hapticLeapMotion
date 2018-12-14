@@ -2,5 +2,4 @@
 <br>
 <br>
 <br> <h2>Project Description<h2/>
-<br>
-<p> Mixed realitiy technologies ..</p>
+Mixed realitiy technologies ..
