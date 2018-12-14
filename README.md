@@ -8,9 +8,7 @@ Mixed reality technologies today are .
 
 ## Team Members:
 
-[Juan Molina](https://jamolinaescalante.myportfolio.com/)
-[Matthew Haeger]()
-[Aidan Rafferty]()
+[Juan Molina](https://jamolinaescalante.myportfolio.com/) <br> [Matthew Haeger]() <br> [Aidan Rafferty]()
 
 
 ## Resources:
