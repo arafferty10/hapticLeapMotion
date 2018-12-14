@@ -1,10 +1,10 @@
 # Ho’ohui - Augmented Reality Visualizer with Haptics
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHNi0WVeAYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8qIpwgm3nno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Project Description:
 
-Mixed reality technologies today are .
+
 
 ## Team Members:
 
@@ -13,10 +13,10 @@ Mixed reality technologies today are .
 
 ## Resources:
 
-* Desktop PC with LCD display running Windows XP
-* Bluetooth enabled [Anoto](http://www.anoto.com) digital pen
-* Office desk with A0 tabletop covered in Anoto Pattern and protective plexiglass sheet 
-* Ceiling-mounted projector (XGA resolution)
+* Desktop PC with Unity 3D program.
+* Print SLA Lenses: https://github.com/mdrjjn/northStarAssemblyGuide
+* Print PLA Headset Parts: https://docs.google.com/spreadsheets/d/17OPl2oNZefMu_XfwKp9CA5PygzD6_z3uMTJ1lndurGw/edit?usp=sharing
+* 
 
-![PenTable Setup](https://raw.githubusercontent.com/danielleithinger/pentable/master/pentable-graphic.jpg)
+![Project North Star Headset Assembly](https://raw.githubusercontent.com/danielleithinger/pentable/master/pentable-graphic.jpg)
 Figure: 
